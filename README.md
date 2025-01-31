@@ -65,5 +65,5 @@ _A full-stack marketplace built with Rails and React._
 
 ### 📫 Let’s Connect!
 - 💬 **Ask me about**: Full-stack development, AI workflows, or Ruby on Rails best practices!  
-- 📧 **Email**: [your.email@example.com](mailto:your.barakaroney001@gmail.com)  
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle) *(optional)*  
+- 📧 **Email**: [barakaroney001@gmail.com](mailto:your.barakaroney001@gmail.com)  
+  
